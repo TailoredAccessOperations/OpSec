@@ -61,38 +61,6 @@ Operational Security (OpSec) is a comprehensive strategic framework designed to 
 
 ---
 
-### Key Components of OpSec
-
-1. **Information Control**
-   - **Concept:** Strategically manage the dissemination of information to prevent unauthorized access and mitigate security risks.
-   - **Practices:**
-     - **Controlled Dissemination:** Exercise strict control over information sharing. Use secure, classified channels to transmit sensitive data and limit access based on need-to-know principles.
-     - **Personnel Training:** Provide rigorous training to personnel on the handling, classification, and protection of sensitive information, ensuring they understand the implications of data breaches and the importance of discretion.
-
-2. **Digital Footprint Management**
-   - **Concept:** Minimize the exposure of personal and operational data online to reduce the risk of exploitation and reconnaissance by adversaries.
-   - **Practices:**
-     - **Adjust Privacy Settings:** Regularly review and adjust privacy settings on social media platforms and online accounts to limit visibility of sensitive information.
-     - **Controlled Disclosure:** Refrain from sharing personal or operational details publicly. Implement policies to prevent oversharing and ensure that only vetted information is made accessible.
-
-3. **Vulnerability Reduction**
-   - **Concept:** Proactively identify and address vulnerabilities in systems, processes, and technologies to fortify security.
-   - **Practices:**
-     - **Patch Management:** Ensure all systems and software are continuously updated with the latest security patches. Implement a structured patch management process to address vulnerabilities swiftly.
-     - **Enhanced Authentication:** Utilize strong, unique passwords across all systems. Implement multi-layered encryption and other security measures to protect sensitive data.
-
-4. **Threat Intelligence**
-   - **Concept:** Maintain an advanced understanding of emerging threats and adversarial tactics to preempt and counteract potential risks.
-   - **Practices:**
-     - **Monitor Threat Landscape:** Continuously monitor intelligence reports, security news, and updates from trusted sources to stay informed about new and evolving threats.
-     - **Engage in Intelligence Sharing:** Participate in intelligence-sharing networks and cybersecurity forums. Leverage threat intelligence services and collaborate with other agencies to enhance threat detection and response capabilities.
-
-5. **Secure Communication**
-   - **Concept:** Ensure that all communications and data exchanges are protected against unauthorized interception and access.
-   - **Practices:**
-     - **Implement Encryption:** Use advanced encryption technologies for all forms of communication, including email and messaging. Ensure that encryption standards meet or exceed current security requirements.
-     - **Adopt Secure Protocols:** Employ secure communication protocols and tools that provide robust protection against eavesdropping and unauthorized access, aligning with agency standards for operational security.
-
 ### Practical Implementation of OpSec
 
 1. **Education and Training**
